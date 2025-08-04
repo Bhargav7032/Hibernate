@@ -1,0 +1,5 @@
+com\ciq\dao\StudentDao.class
+com\ciq\util\SessionUtil.class
+com\ciq\model\Student.class
+com\ciq\app\Test.class
+com\ciq\dao\StudentDaoImpl.class
